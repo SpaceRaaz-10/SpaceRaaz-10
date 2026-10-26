@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Vibe Coder, UX/UI Designer and a QA Enthusiast from Nepal 🇳🇵</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/SpaceRaaz-10">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Agent+Developer;Full-Stack+Engineer;React+Enthusiast;Always+learning+new+things&center=true&width=500&height=50&color=3b82f6&vCenter=true&size=22">
   </a>
 </p>
@@ -31,10 +31,10 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SpaceRaaz-10&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpaceRaaz-10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceRaaz-10&layout=compact&theme=tokyonight&hide_border=true" />
 
 
 
