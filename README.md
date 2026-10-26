@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://github.com/SpaceRaaz-10">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Agent+Developer;Full-Stack+Engineer;React+Enthusiast;Always+learning+new+things&center=true&width=500&height=50&color=3b82f6&vCenter=true&size=22">
   </a>
 </p>
 
