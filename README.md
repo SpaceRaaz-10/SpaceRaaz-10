@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=3b82f6&style=flat" alt="YOUR_USERNAME" />
+<img src="https://komarev.com/ghpvc/?username=SpcaeRaaz-10&label=Profile%20views&color=3b82f6&style=flat" alt="SpaceRaaz-10" />
 <h1 align="center">Hi there, I'm Raj Sigdel 👋</h1>
 <h3 align="center">A passionate Vibe Coder, UX/UI Designer and a QA Enthusiast from Nepal 🇳🇵</h3>
 
@@ -27,7 +27,7 @@
 </p>
 
 ### 🚀 Featured Projects
-- **[Space Raj AI Agent](https://github.com/YOUR_USERNAME/space-raj-ai-agent)**: A full-stack, locally hosted AI assistant with vision, web search, PC control, and image generation.
+- **[Space Raj AI Agent](https://github.com/SpaceRaaz-10/space-raj-ai-agent)**: A full-stack, locally hosted AI assistant with vision, web search, PC control, and image generation.
 
 ### 📊 GitHub Stats
 <p align="center">
